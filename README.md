@@ -1,4 +1,3 @@
-````markdown
 # Simple App on PHP and React
 
 This project is a simple application built using PHP for the backend and React for the frontend.
@@ -14,7 +13,6 @@ This project is a simple application built using PHP for the backend and React f
    ```bash
    git clone https://github.com/rajmendra/simple-app-on-php-react.git
    ```
-````
 
 2. **Import Database:**
 
